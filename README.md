@@ -106,7 +106,7 @@ Conhecimento em metodologias de desenvolvimento ágil com SCRUM e programação 
 * PSD para HTML;
 * Desenvolvimento de sites com PHP/MySQL.
 
-**Secrtária de Estado e Meio Ambiente e Recursos Hídricos - SEMARH-DF** - Diretor de Modernização e Tecnologia da Informação - 2012/2013
+**Secretaria de Estado e Meio Ambiente e Recursos Hídricos - SEMARH-DF** - Diretor de Modernização e Tecnologia da Informação - 2012/2013
 
 > Planejamento e coordenação de atividades de tecnologia de informação e de serviços de informática, definindo objetivos, metas, riscos, projetos, necessidades dos clientes e acompanhando tendências tecnológicas, destaca-se para as seguintes responsabilidades:
 * Consultoria em projetos;
