@@ -12,8 +12,8 @@
 
 ## Sobre mim
  
-Meu nome é Wellington, tenho 28 anos sou Front End Developer residente em Brasilia,atualmente trabalho como freelancer. Sou formado em Designer de interface pela Faculdade Fortium, estou no mercado de tecnologia desde 2008.Prezo pelo código semântico, acessível e limpo. 
-Trabalhar em equipe é algo que admiro e gosto bastante e gosto de trazer novas ideias para resolver problemas. Estou sempre pensando como torná a web mais produtiva com as ferramentas que melhoram o seu fluxo de trabalho e ajuda-lo a fazer os mais belos webapps, tornando a web mais sexy.
+Meu nome é Wellington, tenho 28 anos sou Front End Developer residente em Brasilia, atualmente trabalho como freelancer. Sou formado em Designer de interface pela Faculdade Fortium, estou no mercado de tecnologia desde 2008. Prezo pelo código semântico, acessível e limpo. 
+Trabalhar em equipe é algo que admiro e gosto bastante e e trazer novas ideias para resolver problemas. Estou sempre pensando como torná a web mais produtiva com as ferramentas que melhoram o seu fluxo de trabalho e ajuda-lo a fazer os mais belos webapps, tornando a web mais sexy.
 
 ##Resumo Profissional
 
