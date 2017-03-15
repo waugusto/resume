@@ -112,17 +112,6 @@ destaca-se para as seguintes responsabilidades:
 
 ## Cursos
 
-* Zend Framework (PHPrime);
-* Programação Orientada a Objetos em Java (Eteg);
-* Programação em Java - JSE (Eteg);
-* Começando com Javascript (HOWTO);
-* Organizando o Javascript (HOWTO);
-* jQuery (HOWTO);
-
-## Extras
-* Palestra na Faculdade Cotemig;
-* Palestra UNA Barro Preto - Do gráfico para web;
-* Palestra UNA Barreiro - Semana D;
-* Palestra UNI-BH - Tunando sua webapp com WAI-ARIA;
-* Palestra no Dev In Company - jChebly.
+* Web Design, Direção de Arte, Pacote Adobe CS4 – Studio Online (116h - 2011)
+* Programação Orientada a Objetos em Java (Eteg)
 
