@@ -6,7 +6,7 @@
 
 **Site** [waugusto.com.br](http://waugusto.com.br)
 
-**Linkedin** https://www.linkedin.com/in/wellingtonaugusto (https://www.linkedin.com/in/wellingtonaugusto/)
+**Linkedin** https://www.linkedin.com/in/wellingtonaugusto
 
 **E-mail** wellington.ao@gmail.com
 
