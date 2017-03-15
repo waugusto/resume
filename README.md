@@ -1,10 +1,12 @@
 # Wellington Augusto
 
 **Localização** Brasilia - DF - Brazil
+
 **Telefone** (61) 98201-5162
+
 **Site** [waugusto.com.br](http://waugusto.com.br)
+
 **E-mail** wellington.ao@gmail.com
-**Github** waugusto
 
 ## Sobre mim
  
