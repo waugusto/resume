@@ -6,16 +6,13 @@
 
 **Site** [waugusto.com.br](http://waugusto.com.br)
 
+**Linkedin** [https://www.linkedin.com/in/wellingtonaugusto/]
 **E-mail** wellington.ao@gmail.com
 
 ## Sobre mim
  
-Meu nome é Wellington, tenho 28 anos sou Front End Developer residente em Brasilia,
-atualmente trabalho como freelancer. 
-Sou formado em Designer de interface pela
-Faculdade Fortium, estou no mercado de tecnologia desde 2008. 
-Prezo pelo código semântico, acessível e limpo. 
-Trabalhar em equipe é algo que admiro e gosto bastante e gosto de trazer novas ideias para resolver problemas.
+Meu nome é Wellington, tenho 28 anos sou Front End Developer residente em Brasilia,atualmente trabalho como freelancer. Sou formado em Designer de interface pela Faculdade Fortium, estou no mercado de tecnologia desde 2008.Prezo pelo código semântico, acessível e limpo. 
+Trabalhar em equipe é algo que admiro e gosto bastante e gosto de trazer novas ideias para resolver problemas. Estou sempre pensando como torná a web mais produtiva com as ferramentas que melhoram o seu fluxo de trabalho e ajuda-lo a fazer os mais belos webapps, tornando a web mais sexy.
 
 ##Resumo Profissional
 
@@ -57,7 +54,7 @@ Conhecimento em metodologias de desenvolvimento ágil com SCRUM e programação 
 
 ## Experiência profissional
 
-Desenvolvedor Frontend - **Caixa Econômica - CTIS** - Junho 2015 - Agosto 2016
+**Caixa Econômica - CTIS** - Desenvolvedor Frontend - Junho 2015 - Agosto 2016
 
 > Construção de interfaces com alto grau de qualidade utilizando HTML, Sass, CSS e Javascript. Podendo destacar a refatoração do workflow de Frontend utilizando padrões que desenvolvemos como por exemplo:
 * Modularização de CSS utilizando conceitos de OOCSS;
@@ -65,7 +62,7 @@ Desenvolvedor Frontend - **Caixa Econômica - CTIS** - Junho 2015 - Agosto 2016
 * Versionamento de códigos com GIT;
 * Web Standards.
 
-Desenvolvedor Frontend - **Ministério da Saúde - CTIS** -  Abril de 2015 – Junho de 2015
+**Ministério da Saúde - CTIS** -  Desenvolvedor Frontend - Abril de 2015 – Junho de 2015
 
 > Pesquisar tecnologias e ferramentas adequadas à necessidade do cliente. Reunir-se com clientes para conhecer suas necessidades e preferências. Desenvolver e adequar linguagens de programação estruturadas específicas para websites, podendo destacar também:
 * Modularização e web perfomance CSS;
@@ -74,7 +71,7 @@ Desenvolvedor Frontend - **Ministério da Saúde - CTIS** -  Abril de 2015 – J
 * Uso de AngularJS;
 * Refatoração semântica do HTML.
 
-Desenvolvedor Frontend - **Mad Mídia - Mídia e Ações Digitais** - Maio de 2014 – Março de 2015
+**Mad Mídia - Mídia e Ações Digitais** - Desenvolvedor Frontend - Maio de 2014 – Março de 2015
 
 > Construção de interfaces com alto grau de qualidade utilizando HTML, Sass, CSS e Javascript. Podendo destacar a refatoração do workflow de Frontend utilizando padrões que desenvolvemos como por exemplo:
 * Web Analytics;
@@ -86,19 +83,30 @@ Desenvolvedor Frontend - **Mad Mídia - Mídia e Ações Digitais** - Maio de 20
 * Desenvolvimento em Wordpress
 
 
-Hollo Interact - **Programador PHP** - Novembro de 2010 – Janeiro de 2011
+**Nova Mídia -  Publicidade Digital** - Desenvolvedor Frontend - Agosto de 2013 – Março de 2014
 
-> Na Hollo Interact fui estagiário de desenvolvimento web onde usavamos um CMS próprio feito em PHP/MySQL e desenvolvi atividades, como:
+> Desenvolvimento de padrões de sites, portais e soluções. Consultoria em arquitetura da informação, webdesign, design gráfico. Usavamos um CMS próprio feito em PHP/MySQL e desenvolvi atividades, como:
+* Desenvolvimento de Marcas
+* Criação de Layout em PDS
 * PSD para HTML;
 * Desenvolvimento de sites com PHP/MySQL.
 
-Cafelaranja comunicacao - **Programador PHP** - Agosto de 2010 – Outubro de 2010
-> Como Programador PHP desenvolvia atividades relacionadas a manutenção/desenvolvimento de sistemas.
-Tendo iniciado meus conhecimentos em templates engines, como Smarty para PHP,
-destaca-se para as seguintes responsabilidades:
-* PSD para HTML;
-* Template Engine Smarty;
-* Manutenção/desenvolvimento de sites e sistemas.
+**Secrtária de Estado e Meio Ambiente e Recursos Hídricos - SEMARH-DF** - Diretor de Modernização e Tecnologia da Informação - 2012/2013
+
+> Planejamento e coordenação de atividades de tecnologia de informação e de serviços de informática, definindo objetivos, metas, riscos, projetos, necessidades dos clientes e acompanhando tendências tecnológicas, destaca-se para as seguintes responsabilidades:
+* Consultoria em projetos;
+* Desenvolvimento de Projeto Básicos;
+* Manutenção na rede de computadores;
+* Compra de suprimentos
+* Licitações
+* Auditoria em contratos outsource
+
+**Ministério do Esporte - ME** - Estágiario Designer - 2012/2013
+
+> Fui responsável pela área de desenvolvimento e criação de campanhas publicitárias internas, destaca-se para as seguintes responsabilidades:
+* Desenvolvimento de marcas
+* Criação de cartazes
+* Desenvolvimento de campanhas internas
 
 ## Cursos
 
