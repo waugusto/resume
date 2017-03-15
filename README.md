@@ -44,56 +44,44 @@ Conhecimento em metodologias de desenvolvimento ágil com SCRUM e programação 
 * Gulp - Bower - Yeoman;
 * Git;
 * PHP;
-* Zend Framework;
-* Code Igniter;
 * Wordpress;
 * MySQL;
 * Scrum.
 
-### Conhecimentos:
-
-* Ruby;
-* Ruby on Rails;
-* AngularJS;
-* Web Analytics;
-* SEO;
-* Jasmine;
-* PhantomJS;
-* SVG;
-* API REST.
-
-
 ## Formação acadêmica
 
-**Faculdade Pitágoras** - **Sistemas para Internet**
+**Faculdade Fortium** - **Design de interface**
+**Faculdade Icespe**  - **MBA – Gestão e Governança da Ti**
 
 ## Experiência profissional
 
-Desenvolvedor Frontend - **3bits Estúdio Criativo** - Agosto 2013 - Junho 2014
+Desenvolvedor Frontend - **Caixa Econômica - CTIS** - Junho 2015 - Agosto 2016
 
-> Construção de interfaces com alto grau de qualidade utilizando HTML, Sass, CSS e Javascript. Podendo destacar a refatoração do workflow de Frontend utilizando
-padrões que desenvolvemos como por exemplo:
+> Construção de interfaces com alto grau de qualidade utilizando HTML, Sass, CSS e Javascript. Podendo destacar a refatoração do workflow de Frontend utilizando padrões que desenvolvemos como por exemplo:
 * Modularização de CSS utilizando conceitos de OOCSS;
 * Uso de Sass e biblioteca Compass;
-* Task Runner Guard;
 * Versionamento de códigos com GIT;
 * Web Standards.
 
-Web Developer - **DGOODS - Compras Inteligentes** - Julho de 2011 – Junho de 2012
+Desenvolvedor Frontend - **Ministério da Saúde - CTIS** -  Abril de 2015 – Junho de 2015
 
-> Realiza rotina de manutenção e desenvolvimento de novas features no sistema utilizando o Zend Framework, MySQL e também HTML, CSS e Javascript. Especializei no Frontend e fui o responsável pela refatoração do código, podendo destacar também:
-* Implementação de Microformats;
+> Pesquisar tecnologias e ferramentas adequadas à necessidade do cliente. Reunir-se com clientes para conhecer suas necessidades e preferências. Desenvolver e adequar linguagens de programação estruturadas específicas para websites, podendo destacar também:
 * Modularização e web perfomance CSS;
 * Web Perfomance;
+* Versionamento de códigos com GIT;
+* Uso de AngularJS;
 * Refatoração semântica do HTML.
 
-Analista e Desenvolvedor PHP - **Premium Clube Multimidia** - Maio de 2011 – Julho de 2011
+Desenvolvedor Frontend - **Mad Mídia - Mídia e Ações Digitais** - Maio de 2014 – Março de 2015
 
-> Responsável por analisar novos requisitos no sistema e adicionar e modificiar features. Refatoramos o sistema de compra coletiva com o framework [Code Igniter](https://github.com/bcit-ci/CodeIgniter/). Além que realizar algumas responsabilidade de Frontend, como:
+> Construção de interfaces com alto grau de qualidade utilizando HTML, Sass, CSS e Javascript. Podendo destacar a refatoração do workflow de Frontend utilizando padrões que desenvolvemos como por exemplo:
 * Web Analytics;
+* Modularização de CSS utilizando conceitos de OOCSS;
 * Implementação de SEO;
 * Refatoração semântica do HTML;
 * Manutenção e implementação da área administrativa.
+* PSD para HTML;
+* Desenvolvimento em Wordpress
 
 
 Hollo Interact - **Programador PHP** - Novembro de 2010 – Janeiro de 2011
@@ -113,5 +101,6 @@ destaca-se para as seguintes responsabilidades:
 ## Cursos
 
 * Web Design, Direção de Arte, Pacote Adobe CS4 – Studio Online (116h - 2011)
-* Programação Orientada a Objetos em Java (Eteg)
+* PHP5 COM MYSQL + ORIENTAÇÃO A OBJETOS – Eibnet (105h - 2012)
+* Lógica de Programação com JavaScript – Caelum (32h – 2015)
 
