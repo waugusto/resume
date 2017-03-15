@@ -33,8 +33,16 @@ Conhecimento em metodologias de desenvolvimento ágil com SCRUM e programação 
 
 ## Competências técnicas
 
-### Habilidades:
+### Design
+* Análises e pesquisas de usuários (personas); 
+* Wireframes dinâmicos (Axure, Proto.io, UXPin, etc.); 
+* Testes de usabilidade;
+* Photoshop; Illustrator; 
+* Patterns; Grids; Pixel perfect; Retina;
+* Mobile e Desktop (responsivo);
 
+### Front-End
+* Arquitetura da informação;
 * Webstandards;
 * WCAG 2.0 - WAI-ARIA;
 * HTML;
@@ -43,10 +51,16 @@ Conhecimento em metodologias de desenvolvimento ágil com SCRUM e programação 
 * Javascript;
 * Gulp - Bower - Yeoman;
 * Git;
+
+### Back-End
 * PHP;
 * Wordpress;
 * MySQL;
-* Scrum.
+
+### Business
+* Scrum
+* Canvas
+* SEO e adwords
 
 ## Formação acadêmica
 
