@@ -65,7 +65,8 @@ Conhecimento em metodologias de desenvolvimento ágil com SCRUM e programação 
 ## Formação acadêmica
 
 **Faculdade Fortium** - **Design de interface**
-**Faculdade Icespe**  - **MBA – Gestão e Governança da Ti**
+
+**Faculdade Icesp**  - **MBA – Gestão e Governança da Ti**
 
 ## Experiência profissional
 
