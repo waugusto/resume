@@ -116,7 +116,7 @@ Conhecimento em metodologias de desenvolvimento ágil com SCRUM e programação 
 * Licitações
 * Auditoria em contratos outsource
 
-**Ministério do Esporte - ME** - Estágiario Designer - 2012/2013
+**Ministério do Esporte - ME** - Estagiário Designer - 2012/2013
 
 > Fui responsável pela área de desenvolvimento e criação de campanhas publicitárias internas, destaca-se para as seguintes responsabilidades:
 * Desenvolvimento de marcas
