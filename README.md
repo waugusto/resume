@@ -17,7 +17,7 @@ Trabalhar em equipe é algo que admiro e gosto bastante e trazer novas ideias pa
 
 ##Resumo Profissional
 
-Dez anos de experiência como diretor de arte com amplo conhecimento no pacote adobe. Durante um ano e meio fui responsável pela área de desenvolvimento e criação de campanhas internas do Ministério do Esporte. Dez anos de experiência em desenvolvimento front-end (programação) com forte conhecimento em HTML, CSS, JS e FRAMEWORKS CSS, sendo que, nos últimos anos, utilizou-se suas formas mais atuais, ou seja, CSS3 e o HTML5. três anos em conhecimento adquirido nas linguagens PHP, SQL e JS (jquery).
+Nove anos de experiência como diretor de arte com amplo conhecimento no pacote adobe. Durante um ano e meio fui responsável pela área de desenvolvimento e criação de campanhas internas do Ministério do Esporte. Seis anos de experiência em desenvolvimento front-end (programação) com forte conhecimento em HTML, CSS, JS e FRAMEWORKS CSS, sendo que, nos últimos anos, utilizou-se suas formas mais atuais, ou seja, CSS3 e o HTML5. três anos em conhecimento adquirido nas linguagens PHP, SQL e JS (jquery).
 
 Trabalhei como Diretor de Tecnologia de Informação da Secretaria de Estado e Meio Ambiente e Recursos Hídricos do Distrito Federal SEMARH-DF, participando em diversos projetos dentre eles na consultoria da infra-estrutura tecnológica do PCPV-DF, onde pude aprimorar muito os conhecimentos em redes, gerenciamento de projetos e aprofundamento na Lei n° (8.666/93). E recentemente como consultor front-end no padrão de desenvolvimento de sistemas internos Caixa Econômica Federal.
 
