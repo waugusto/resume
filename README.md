@@ -70,7 +70,7 @@ Conhecimento em metodologias de desenvolvimento ágil com SCRUM e programação 
 
 ## Experiência profissional
 
-**Caixa Econômica - CTIS** - Desenvolvedor Frontend - Junho 2015 - Agosto 2016
+**Caixa Econômica - CTIS** - Desenvolvedor Frontend - Junho 2015 - Maio 2017
 
 > Construção de interfaces com alto grau de qualidade utilizando HTML, Sass, CSS e Javascript. Podendo destacar a refatoração do workflow de Frontend utilizando padrões que desenvolvemos como por exemplo:
 * Modularização de CSS utilizando conceitos de OOCSS;
