@@ -12,8 +12,7 @@
 
 ## Sobre mim
  
-Meu nome é Wellington, tenho 28 anos sou Front End Developer residente em Brasilia, atualmente trabalho como freelancer. Sou formado em Designer de interface pela Faculdade Fortium, estou no mercado de tecnologia desde 2008. Prezo pelo código semântico, acessível e limpo. 
-Trabalhar em equipe é algo que admiro e gosto bastante e trazer novas ideias para resolver problemas. Estou sempre pensando como torná a web mais produtiva com as ferramentas que melhoram o seu fluxo de trabalho e ajuda-lo a fazer os mais belos webapps, tornando a web mais sexy.
+Meu nome é Wellington Augusto, sou Desenvolvedor Front End residente em Brasilia, além do meu trabalho como freelancer sou Desenvolvedor de Aplicações Web na Toccato Tecnologia. Formado em Design de interface com MBA em Gestão e Governança de Ti, estou no mercado de tecnologia há mais de 8 anos. Prezo pelo código semântico, acessível e limpo. Trabalhar em equipe é algo que admiro e gosto bastante e trazer novas ideias para resolver problemas. Estou sempre pensando como torná a web mais produtiva com as ferramentas que melhoram o seu fluxo de trabalho e ajuda-lo a fazer os mais belos webapps, tornando a web mais sexy.
 
 ##Resumo Profissional
 
@@ -29,7 +28,6 @@ Conhecimento em metodologias de desenvolvimento ágil com SCRUM e programação 
 
 * Inglês Técnico;
 * Português (fluente);
-* Hebraico (iniciante).
 
 ## Competências técnicas
 
@@ -127,6 +125,5 @@ Conhecimento em metodologias de desenvolvimento ágil com SCRUM e programação 
 ## Cursos
 
 * Web Design, Direção de Arte, Pacote Adobe CS4 – Studio Online (116h - 2011)
-* PHP5 COM MYSQL + ORIENTAÇÃO A OBJETOS – Eibnet (105h - 2012)
-* Lógica de Programação com JavaScript – Caelum (32h – 2015)
-
+* PHP5 com MySQL + Orientação a Objetos – Eibnet (105h - 2012)
+* Web Apps Responsivas com JavaScript e jQuery – Caelum (32h – 2015)
