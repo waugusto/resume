@@ -1,6 +1,6 @@
 # Wellington Augusto
 
-**Localização** Brasilia - DF - Brazil
+**Localização** Brasilia - DF - Brasil
 
 **Telefone** (61) 98201-5162
 
@@ -12,15 +12,15 @@
 
 ## Sobre mim
  
-Meu nome é Wellington Augusto, sou Desenvolvedor Front End residente em Brasilia, além do meu trabalho como freelancer sou Desenvolvedor de Aplicações Web na Toccato Tecnologia. Formado em Design de interface com MBA em Gestão e Governança de Ti, estou no mercado de tecnologia há mais de 8 anos. Prezo pelo código semântico, acessível e limpo. Trabalhar em equipe é algo que admiro e gosto bastante e trazer novas ideias para resolver problemas. Estou sempre pensando como torná a web mais produtiva com as ferramentas que melhoram o seu fluxo de trabalho e ajuda-lo a fazer os mais belos webapps, tornando a web mais sexy.
+Meu nome é Wellington Augusto, sou Desenvolvedor Front End residente em Brasilia, atualmente Desenvolvedor de Aplicações Web em analise de dados e governança com a utilização da ferramenta QLIK na Toccato Tecnologia. Formado em Design de interface com MBA em Gestão e Governança de Ti, estou no mercado de tecnologia há 8 anos. Prezo pelo código semântico, acessível e limpo. Trabalhar em equipe é algo que admiro gosto bastante, pois posso trazer novas ideias para solucionar problemas em conjunto. Estou sempre pensando como torná a web mais produtiva com as ferramentas que melhoram o seu fluxo de trabalho e ajuda-lo a fazer os mais belos webapps, tornando a web mais sexy.
 
 ##Resumo Profissional
 
-Nove anos de experiência como diretor de arte com amplo conhecimento no pacote adobe. Durante um ano e meio fui responsável pela área de desenvolvimento e criação de campanhas internas do Ministério do Esporte. Seis anos de experiência em desenvolvimento front-end (programação) com forte conhecimento em HTML, CSS, JS e FRAMEWORKS CSS, sendo que, nos últimos anos, utilizou-se suas formas mais atuais, ou seja, CSS3 e o HTML5. três anos em conhecimento adquirido nas linguagens PHP, SQL e JS (jquery).
+Nove anos de experiência como diretor de arte com amplo conhecimento no pacote adobe. Fui responsável pela área de desenvolvimento e criação de campanhas internas do Ministério do Esporte. Experiência em desenvolvimento front-end em várias agências de públicidade com forte conhecimento em HTML, CSS, JS, sendo que, nos últimos anos tenho adquirido conhecimento nas linguagens PHP, SQL e BI.
 
-Trabalhei como Diretor de Tecnologia de Informação da Secretaria de Estado e Meio Ambiente e Recursos Hídricos do Distrito Federal SEMARH-DF, participando em diversos projetos dentre eles na consultoria da infra-estrutura tecnológica do PCPV-DF, onde pude aprimorar muito os conhecimentos em redes, gerenciamento de projetos e aprofundamento na Lei n° (8.666/93). E recentemente como consultor front-end no padrão de desenvolvimento de sistemas internos Caixa Econômica Federal.
+Trabalhei como Diretor de Tecnologia de Informação da Secretaria de Estado e Meio Ambiente e Recursos Hídricos do Distrito Federal SEMARH-DF, participando em diversos projetos dentre eles na consultoria da infra-estrutura tecnológica do PCPV-DF, onde pude aprimorar muito os conhecimentos em redes, gerenciamento de projetos e aprofundamento na Lei n° (8.666/93). Recentemente como consultor front-end no padrão de desenvolvimento de sistemas internos Caixa Econômica Federal.
 
-Conhecimento em metodologias de desenvolvimento ágil com SCRUM e programação em dupla. Experiência com elaboração de planos e projetos básicos.
+Conhecimento em metodologias de desenvolvimento ágil com SCRUM e KABAN. Experiência com elaboração de planos e projetos básicos.
 
 ## Objetivo 
 
@@ -49,16 +49,22 @@ Conhecimento em metodologias de desenvolvimento ágil com SCRUM e programação 
 * Javascript;
 * Gulp - Bower - Yeoman;
 * Git;
+* Webapp
 
 ### Back-End
 * PHP;
 * Wordpress;
 * MySQL;
 
-### Business
+### Metodologia ágeis
 * Scrum
 * Canvas
-* SEO e adwords
+* Kaban
+
+### Business
+* Data Analytics
+* Desing Analytics
+* Qlik Sense
 
 ## Formação acadêmica
 
@@ -67,6 +73,14 @@ Conhecimento em metodologias de desenvolvimento ágil com SCRUM e programação 
 **Faculdade Icesp**  - **MBA – Gestão e Governança da Ti**
 
 ## Experiência profissional
+
+**Toccato Tecnologia ** - Desenvolvedor de aplicações Web - Junho 2017
+
+> Construção de interfaces com alto grau de qualidade utilizando HTML, Sass, CSS e Javascript. Podendo destacar a refatoração do workflow de Frontend utilizando padrões que desenvolvemos como por exemplo:
+* Modularização de CSS utilizando conceitos de OOCSS;
+* Uso de Sass e biblioteca Compass;
+* Versionamento de códigos com GIT;
+* Web Standards.
 
 **Caixa Econômica - CTIS** - Desenvolvedor Frontend - Junho 2015 - Maio 2017
 
