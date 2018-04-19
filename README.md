@@ -74,13 +74,21 @@ Conhecimento em metodologias de desenvolvimento ágil com SCRUM e KABAN. Experi�
 
 ## Experiência profissional
 
-**Toccato Tecnologia ** - Desenvolvedor de aplicações Web - Junho 2017
+**Toccato Tecnologia** - Desenvolvedor de aplicações Web - Junho 2017
 
-> Construção de interfaces com alto grau de qualidade utilizando HTML, Sass, CSS e Javascript. Podendo destacar a refatoração do workflow de Frontend utilizando padrões que desenvolvemos como por exemplo:
-* Modularização de CSS utilizando conceitos de OOCSS;
-* Uso de Sass e biblioteca Compass;
-* Versionamento de códigos com GIT;
-* Web Standards.
+> Construção de interfaces com alto grau nível de qualidade utilizando HTML,CSS, Javascript e QLIK.
+* Criação de Mashups;
+* Single Pages;
+* Modularização de CSS;
+* Modularização de JS;
+* Reaproveitamento de código.
+
+> Instrutor de desenvolvimento web 
+* DevHub - Qlik Sense QAP;
+* Mashup - Qlik Sense QAP;
+* Single Configurator - Qlik Sense QAP;
+* Extensions Configurator - Qlik Sense QAP;
+* Desing Analytics.
 
 **Caixa Econômica - CTIS** - Desenvolvedor Frontend - Junho 2015 - Maio 2017
 
@@ -141,3 +149,5 @@ Conhecimento em metodologias de desenvolvimento ágil com SCRUM e KABAN. Experi�
 * Web Design, Direção de Arte, Pacote Adobe CS4 – Studio Online (116h - 2011)
 * PHP5 com MySQL + Orientação a Objetos – Eibnet (105h - 2012)
 * Web Apps Responsivas com JavaScript e jQuery – Caelum (32h – 2015)
+* QlikView – Toccato Tecnologia (32h – 2017)
+* QlikSense – Toccato Tecnologia (32h – 2017)
