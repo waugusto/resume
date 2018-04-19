@@ -12,7 +12,7 @@
 
 ## Sobre mim
  
-Meu nome é Wellington Augusto, sou Desenvolvedor Front End residente em Brasilia, atualmente Desenvolvedor de Aplicações Web em analise de dados e governança com a utilização da ferramenta QLIK na Toccato Tecnologia. Formado em Design de interface com MBA em Gestão e Governança de Ti, estou no mercado de tecnologia há 8 anos. Prezo pelo código semântico, acessível e limpo. Trabalhar em equipe é algo que admiro gosto bastante, pois posso trazer novas ideias para solucionar problemas em conjunto. Estou sempre pensando como torná a web mais produtiva com as ferramentas que melhoram o seu fluxo de trabalho e ajuda-lo a fazer os mais belos webapps, tornando a web mais sexy.
+Meu nome é Wellington Augusto, sou Desenvolvedor Front End residente em Brasilia, atualmente Desenvolvedor de Aplicações Web em analise de dados e governança com a utilização da ferramenta QLIK na Toccato Tecnologia. Formado em Design de interface com MBA em Gestão e Governança de Ti, estou no mercado de tecnologia há 8 anos. Prezo pelo código semântico, acessível e limpo. Trabalhar em equipe é algo que admiro, pois posso trazer novas ideias e solucionar problemas em conjunto. Estou sempre pensando como torná a web mais produtiva com as ferramentas que melhoram o seu fluxo de trabalho e ajuda-lo a fazer os mais belos webapps, tornando a web mais sexy.
 
 ##Resumo Profissional
 
@@ -63,14 +63,14 @@ Conhecimento em metodologias de desenvolvimento ágil com SCRUM e KABAN. Experi�
 
 ### Business
 * Data Analytics
-* Desing Analytics
+* Design Analytics
 * Qlik Sense
 
 ## Formação acadêmica
 
-**Faculdade Fortium** - **Design de interface**
+**Design de interface** - Faculdade Fortium
 
-**Faculdade Icesp**  - **MBA – Gestão e Governança da Ti**
+**MBA – Gestão e Governança da Ti** - Faculdade Icesp
 
 ## Experiência profissional
 
@@ -149,5 +149,5 @@ Conhecimento em metodologias de desenvolvimento ágil com SCRUM e KABAN. Experi�
 * Web Design, Direção de Arte, Pacote Adobe CS4 – Studio Online (116h - 2011)
 * PHP5 com MySQL + Orientação a Objetos – Eibnet (105h - 2012)
 * Web Apps Responsivas com JavaScript e jQuery – Caelum (32h – 2015)
-* QlikView – Toccato Tecnologia (32h – 2017)
-* QlikSense – Toccato Tecnologia (32h – 2017)
+* Qlik View – Toccato Tecnologia (32h – 2017)
+* Qlik Sense – Toccato Tecnologia (32h – 2017)
